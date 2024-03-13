@@ -1,2 +1,2 @@
 # angular-assignment
-Angular Assignments
+Angular Components TailwindCss Flowbite Assignments
